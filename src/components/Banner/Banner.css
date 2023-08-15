@@ -1,0 +1,7 @@
+.banner-shadow{
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,0.61),#111);
+    height:7.6rem
+}
+.banner{
+    width:max(100vh,100%);
+}
